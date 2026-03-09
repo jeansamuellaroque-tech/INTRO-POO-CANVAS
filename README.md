@@ -76,21 +76,25 @@ class Circle {
 - **Propiedades**: Variables que almacenan el estado del objeto
 - **Instanciación**: Creación de objetos a partir de una clase
 
-## Licencia
+
+---
+
+## 👨‍💻 Autor
+
+**Jean Samuel Laroque**
+
+Proyecto Académico – Graficación
+
+Profesor:  
+**M.C. Víctor Manuel Pinedo Fernández**
+
+---
+
+## 📄 Licencia
+
+© 2026 - Todos los derechos reservados
 
 Este es un proyecto educativo de código abierto.
-
----
-
-## Footer
-
-- **Autor**: [Nombre del autor]
-- **Versión**: 1.0.0
-- **Fecha de creación**: 2024
-- **Institución**: [Nombre de la institución - Tec]
-- **Contacto**: [correo@ejemplo.com]
-
----
 
 *Documentación creada con fines educativos - Intro Canvas 2D con POO*
 
