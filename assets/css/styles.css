@@ -1,0 +1,36 @@
+/* Fondo general */
+body{
+    background: linear-gradient(135deg,#dfe9f3,#ffffff);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Título */
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Canvas */
+canvas{
+    width:300px;
+    height:200px;
+    border-radius:10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* Animación cuando pasas el mouse */
+canvas:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 6px 15px rgba(0,0,0,0.3);
+}
+
+/* Contenedor principal */
+main{
+    background:white;
+}
+
+/* títulos pequeños */
+h5{
+    font-weight:600;
+    margin-bottom:10px;
+}
